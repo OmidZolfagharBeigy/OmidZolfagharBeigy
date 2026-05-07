@@ -9,13 +9,12 @@ I’m passionate about problem-solving and optimizing systems to enhance efficie
 
 ---
 
-## 📈 Profile Stats
+## 📈 GitHub Stats
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=OmidZolfagharBeigy&show_icons=true&theme=dark" alt="GitHub Stats" />
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmidZolfagharBeigy&layout=compact&theme=dark" alt="Top Languages" />
+<div>
+    <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=OmidZolfagharBeigy&layout=compact&show_icons=true&theme=react" alt="OmidZolfagharBeigy github-readme-stats" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=OmidZolfagharBeigy&theme=react" width="50.7%" />
+</div>
 
 
 <!--
